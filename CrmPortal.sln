@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrmPortal.Tests", "CrmPorta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrmStore", "CrmStore\CrmStore.csproj", "{2156DE93-88AD-46D3-BD4F-5426A04A17D8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CrmSolution", "CrmSolution", "{56C1DDC8-7020-481B-98E8-D5E09AAA7A2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
