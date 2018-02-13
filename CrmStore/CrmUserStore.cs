@@ -17,7 +17,7 @@ using Task = System.Threading.Tasks.Task;
 namespace CrmStore
 {
     /// <summary>
-    ///     EntityFramework based user store implementation that supports IUserStore, IUserLoginStore, IUserClaimStore and
+    ///     Crm SDK user store implementation that supports IUserStore, IUserLoginStore, IUserClaimStore and
     ///     IUserRoleStore
     /// </summary>
     /// <typeparam name="TUser"></typeparam>
