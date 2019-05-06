@@ -19,4 +19,4 @@ Dynamics 365 CRM version 8.2 or later is required.
     <add name="CrmConnection" connectionString="AuthType=Office365; Server=https://*****.api.crm6.dynamics.com; Username=*****; Password=*****;" />
    </connectionStrings>
 ```
-Note: in this example the connection string is for Office 365, for on-premise or IFD see examples in web.config 
+Note: in this example the connection string is for Office 365, for on-premise or IFD see examples in the web.config file
