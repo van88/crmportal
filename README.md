@@ -1,9 +1,9 @@
 # CrmPortal
-Dynamics CRM custom MVC portal starter project.
+Dynamics CRM customer portal custom MVC starter project.
 
-## Why?
+## Why use this?
 Although powerful, the out of the box Dynamics Portal or AdxStudio customisation flexibility is quite limited.
-For a complex Dynamics CRM customer portal, a custom built ASP MVC web site might be a better choice. 
+For a complex Dynamics CRM customer portal, a custom built ASP MVC web application might be a better choice. 
 This project is intended to be a starter template with a custom Asp Identity user store implemented.
 User credentials are stored in Contact entity.
 User roles, logins, claims are stored in appropriate custom entities.
